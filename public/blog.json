@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/4FPmxGT/top-view-desk-concept-with-coffee.jpg",
+      "name": "Rakib Hasan",
+      "date": "September 12, 2023",
+      "title": "Book Title 1",
+      "author_img": "https://i.ibb.co/8rQQ67V/13ed55bc-195b-4938-8635-44ccfb2f64a1.jpg",
+      "reading_time": 90 
+      
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/ph1026m/overcast-59th-street-bridge.jpg",
+      "name": "Jhon wick",
+      "date": "September 13, 2023",
+      "title": "Book Title 2",
+      "author_img": "https://i.ibb.co/hK24QH9/man-eclipse-viewing.jpg",
+      "reading_time": 60 
+     
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/gr8qKZn/fog-on-dark-waters-edge.jpg",
+      "name": "Dode came",
+      "date": "September 14, 2023",
+      "title": "Book Title 3",
+      "author_img": "https://i.ibb.co/D49dWhL/professional-man-portrait.jpg",
+      "reading_time": 150 
+      
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/PhqCzPq/265-digital-marketing-facebook-cover-page-template.jpg",
+      "name": "ashly fon",
+      "date": "September 15, 2023",
+      "title": "Book Title 4",
+      "author_img": "https://i.ibb.co/qNQM6pN/profile-of-a-woman-working-on-her-laptop-outdoors.jpg",
+      "reading_time":60
+    
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/mC6tZ02/252-Fashion-sale-facebook-cover-page-template.jpg",
+      "name": "Nunu mendes",
+      "date": "September 16, 2023",
+      "title": "Book Title 5",
+      "author_img": "https://i.ibb.co/hYdJtyx/young-man-watches-sunset.jpg",
+      "reading_time": 120
+     
+    }
+  ]
+  
